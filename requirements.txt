@@ -1,0 +1,5 @@
+prefect>=2.7.5
+sentry-sdk
+s3fs
+python-dotenv
+gitpython
